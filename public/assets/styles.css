@@ -3,7 +3,6 @@ body{
     font-family: tahoma;
     color: #989898;
 }
-
 #todo-table{
     position: relative;
     width: 95%;
@@ -19,7 +18,6 @@ body{
     display: block;
     clear: both;
 }
-
 input[type="text"]{
     width: 70%;
     padding: 20px;
@@ -29,7 +27,6 @@ input[type="text"]{
     font-size: 20px;
     color: #989898;
 }
-
 button{
     padding: 20px;
     width: 30%;
