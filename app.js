@@ -14,4 +14,4 @@ todoController(app);
 
 /* port */
 app.listen(3000);
-console.log('Serving at port 3000');
+console.log('Serving application at port 3000');
